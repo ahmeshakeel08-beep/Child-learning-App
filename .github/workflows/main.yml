@@ -24,10 +24,4 @@ jobs:
         run: npm install
 
       - name: Build App
-        run: npm run build
-
-      - name: Upload Build Files
-        uses: actions/upload-artifact@v4
-        with:
-          name: Child-Learning-App
-          path: dist/
+        run: npm ru
