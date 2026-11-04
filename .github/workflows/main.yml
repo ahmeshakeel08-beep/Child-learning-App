@@ -15,7 +15,7 @@ jobs:
       - name: Get Source Code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -25,4 +25,3 @@ jobs:
 
       - name: Build App
         run: npm run build
-        
