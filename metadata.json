@@ -1,0 +1,6 @@
+{
+  "name": "ABC Fun Learning",
+  "description": "A colorful, interactive, child-friendly ABC learning and finger tracing Android app for toddlers and young children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

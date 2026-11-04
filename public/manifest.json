@@ -1,0 +1,51 @@
+{
+  "name": "ABC Fun Learning",
+  "short_name": "ABC Learning",
+  "description": "A colorful, interactive, child-friendly ABC learning and finger tracing Android app for toddlers and young children.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#EEF2FF",
+  "theme_color": "#4F46E5",
+  "id": "/",
+  "scope": "/",
+  "categories": ["education", "kids", "games"],
+  "icons": [
+    {
+      "src": "/pwa-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

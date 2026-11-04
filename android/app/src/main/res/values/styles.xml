@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ABCFunLearning" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#4F46E5</item>
+        <item name="android:colorPrimaryDark">#4338CA</item>
+        <item name="android:colorAccent">#F59E0B</item>
+        <item name="android:windowBackground">#EEF2FF</item>
+        <item name="android:statusBarColor">#4F46E5</item>
+    </style>
+
+    <style name="Theme.ABCFunLearning.Fullscreen" parent="Theme.ABCFunLearning">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
